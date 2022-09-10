@@ -1,16 +1,8 @@
 # shop
 
-A new Flutter project.
+A shopping list that is synchronized for all devices, as it is tied to the Firebase database.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can add a new item to the list using the "+" button on the bottom right.
+To remove an element, simply swipe it in any direction
